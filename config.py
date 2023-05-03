@@ -47,10 +47,10 @@ config = {
     "healthPot": "f1",  # important to put your regen potion on this button
     "friends": "u",
     "invisible": True,
-    "healthPotAtPercent": 0.35,  # health threshold to trigger potion
-    # "useAwakening": True, # not checking this for now
-    # "useSpeciality1": True, # not checking this for now
-    # "useSpeciality2": True, # not checking this for now
+    "healthPotAtPercent": .5,  # health threshold to trigger potion
+    "useAwakening": True, # not checking this for now
+    "useSpeciality1": True, # not checking this for now
+    "useSpeciality2": True, # not checking this for now
     "auraRepair": True,  # True if you have aura, if not then for non-aura users: MUST have your character parked near a repairer in city before starting the script
     "shortcutEnterChaos": True,  # you want to use True
     "useHealthPot": True,  # you want to use True
